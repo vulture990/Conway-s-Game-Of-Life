@@ -9,7 +9,9 @@ public class Life extends JFrame{
         setSize(1300,700);
         setVisible(true);
         setLayout(null);
+
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
     }
 
     public static void main(String[] args) {
